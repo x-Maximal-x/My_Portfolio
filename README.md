@@ -1,7 +1,9 @@
 # Pradeep Ragunathan Karunakaran
 
-📧 Email: your-email@example.com  
-[GitHub](https://github.com/your-github) | [LinkedIn](https://www.linkedin.com/in/pradeep-ragunathan-karunakaran-26476a271/)
+📧 Email: pradeep23rk@gmail.com
+<br>
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pradeep-ragunathan-karunakaran-26476a271/)
 
 ## About Me
 Cyber Security Graduate | Penetration Tester | SOC Analyst Enthusiast
@@ -24,5 +26,4 @@ Passionate about security, automation, and solving complex security challenges.
 - Developed a strategic IT plan focusing on digitized solutions.
 - Presented key findings and solutions to enhance business operations.
 
-## Certifications
-- Microsoft Certified: Power BI Data Analyst Associate
+
